@@ -21,7 +21,7 @@ En esta prueba, debía levantar un proyecto con el CLI de Medusa.js (npx create-
 Para levantar tanto el front, como el back, hay que realizar los siguientes comandos:
 
 
-> [!NOTE]
+> [!TIP]
 > Lo primero, clonarnos el repositorio. 
 
 ```bash
