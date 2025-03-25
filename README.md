@@ -21,8 +21,7 @@ En esta prueba, debía levantar un proyecto con el CLI de Medusa.js (npx create-
 Para levantar tanto el front, como el back, hay que realizar los siguientes comandos:
 
 
-> [!TIP]
-> Lo primero, clonarnos el repositorio. 
+Lo primero, clonarnos el repositorio. 
 
 ```bash
   git clone https://github.com/Iny4facelol/myurbanscoot.git
@@ -46,6 +45,7 @@ Por último, el front. Como en el back, necesitamos las dependencias. Posteriorm
   npm run dev
 ```
 
+> [!IMPORTANT]
 Posteriormente, al levantar el backend en el puerto localhost:9000, pedirá un acceso de administrador. Las credenciales son: 
 
 - User: admin@medusa-test.com 
