@@ -21,7 +21,8 @@ En esta prueba, debía levantar un proyecto con el CLI de Medusa.js (npx create-
 Para levantar tanto el front, como el back, hay que realizar los siguientes comandos:
 
 
-.[!TIP].Lo primero, clonarnos el repositorio. 
+>.[!TIP].
+>Lo primero, clonarnos el repositorio. 
 
 ```bash
   git clone https://github.com/Iny4facelol/myurbanscoot.git
