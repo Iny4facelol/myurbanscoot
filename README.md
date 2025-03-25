@@ -62,4 +62,6 @@ Posteriormente, al levantar el backend en el puerto localhost:9000, pedirá un a
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.alexmendez.tech)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-mendez-gongora/)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YYKAyAK-GWs&ab_channel=alexmendeztech)
+
 
